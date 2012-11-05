@@ -908,4 +908,12 @@
     <string name="pref_summary_sms_split_counter">Adds counter to message ex. (1/2)</string>
 
     <!-- **** CYANOGENMOD ADDITIONS END **** -->
+
+    <!-- **** LIQUIDSMOOTH ADDITIONS START **** -->
+
+    <string name="direct_call_title">Direct Call</string>
+    <string name="direct_call_summary">Picking up the phone calls the current contact</string>
+
+    <!-- **** LIQUIDSMOOTH ADDITIONS END **** -->
+
 </resources>
